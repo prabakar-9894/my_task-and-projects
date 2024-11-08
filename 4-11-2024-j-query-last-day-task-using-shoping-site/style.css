@@ -1,0 +1,20 @@
+#product_list{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+#product_list .product_inner{
+
+}
+#product_list .product_inner img{
+    width: 200px;
+    height: 300px;
+}
+input{
+    width: 300px;
+    height: 40px;
+}
+button{
+    width: 200px;
+    height: 40px;
+}

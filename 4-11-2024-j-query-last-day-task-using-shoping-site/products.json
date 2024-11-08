@@ -1,0 +1,34 @@
+[
+    {
+        "image":"apple.jpeg",
+        "name":"apple",
+        "description":"lorem lorem lorem lorem",
+        "price":"700",
+        "rating":"3.5",
+        "offer":"10%"
+    },
+    {
+        "image":"pain.webp",
+        "name":"pain",
+        "description":"lorem lorem lorem lorem",
+        "price":"200",
+        "rating":"4.5",
+        "offer":"20%"
+    },
+    {
+        "image":"itachi.webp",
+        "name":"itachi",
+        "description":"lorem lorem lorem lorem",
+        "price":"500",
+        "rating":"4.3",
+        "offer":"30%"
+    },
+    {
+        "image":"luffy.jpg",
+        "name":"luffy",
+        "description":"lorem lorem lorem lorem",
+        "price":"400",
+        "rating":"4.0",
+        "offer":"40%"
+    }
+]
